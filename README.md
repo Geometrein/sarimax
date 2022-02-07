@@ -4,6 +4,7 @@
 
 ---
 **Author:** Tigran Khachatryan
+
 **Description:** Quick and dirty implementation of ARIMA and SARIMAX models on dummy delivery orders data.
 
 ### **Folder Contents**
