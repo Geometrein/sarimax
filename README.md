@@ -12,12 +12,14 @@
 ```
 root
 │   README.md                        # You reading it right now
-│   my_background.md                 # My interests & Projects
-│   wolt_time_series.ipynb           # Time-Series analysis
+│   sarimax.ipynb                    # Time-Series analysis
 │   requirements.txt                 # Dependencies
-│   wolt-assignment.md               # Initial assignment
 └───data
-│   │   orders_autumn_2020.csv       # Initial dataset
+│   │   orders.csv                   # Initial dataset
+└───images
+│   │   osmnx_animation.gif          # Delivery data animations
+└───extras
+│   │   gifmaker.py                  # Animation Maker
 
 ```
 
