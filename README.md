@@ -1,6 +1,6 @@
 # ARIMA & SARIMAX 
 
-![cover_image](/images/osmnx_animation.gif)
+![cover_image](/images/ordering_patterns.png)
 
 ---
 **Author:** Tigran Khachatryan
